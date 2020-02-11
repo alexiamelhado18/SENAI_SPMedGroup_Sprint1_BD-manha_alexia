@@ -1,0 +1,14 @@
+
+Modelagem de Software é produzido pelo modelo MER(Modelo entidade relacionamento) com 3 tipos de modelagens tendo suas relações,cardinalidade, e linguagens ou ferramenta para ser desenvolvida. Trazendo do mundo real para o virtual, tornando um sistema  software.
+
+Modelo conceitual - É um conjunto de suposições baseadas no mundo real que indicarão as regas de negócio de um sistema. Sendo elaborado com releção com as entidades e cardinalidades.
+
+Modelo Lógico - O lógico é um pré visualização de como seus dados serão armazenados no Banco de Dados com suas relações, orientado a tabelas, especificando as entidades, atributos, chaves primárias e estragéiras.(e suas relações).
+
+
+Modelo Físico - Desenvolve por meio de uma Liguaguem ou ferramenta, mostrando como será feito o armazenadomento no Banco de Dados.
+
+
+
+
+que tirar informações do mundo real e trás pro mundo virtual fazendo um sistema com sua relações e cardinalidades, e desenvolvendo em alguma linguagem ou ferramenta.
